@@ -7,8 +7,8 @@ const treeData = [
     title: 'parent 1',
     children: [
       {
-        value: 'parent 1-0',
-        title: 'parent 1-0',
+        value: 'parent 1.0',
+        title: 'parent 1.0',
         children: [
           {
             value: 'leaf1',
